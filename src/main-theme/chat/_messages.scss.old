@@ -1,0 +1,32 @@
+#app-mount {
+    .messageListItem-1-jvGY:hover {
+        background-color: rgba(255, 255, 255, 0.028);
+    }
+    .wrapper-2aW0bm {
+        background-color: var(--background-light-alt);
+    }
+    .markup-2BOw-j code,
+    .wrapperAudio-1jDe0Q,
+    .attachment-33OFj0 { // attachments, audio, and markup
+        border-color: var(--background-alt);
+        background-color: var(--background-alt);
+    }
+    .embedFull-2tM8-- { // embed
+        border-color: var(--background-light-alt);
+        background-color: var(--background-alt);
+    }
+    .textContainer-C0szpm,
+    .footer-2yA7Ep {
+        border-color: var(--background-light-alt);
+        background-color: var(--background-light);
+    }
+    .wrapper-35wsBm {
+        background-color: var(--background-light);
+        .guildIconImage-3qTk45 {
+            background-color: var(--background-light-alt);
+        }
+    }
+    .container-3hZ-gs {
+        background-color: var(--background-light);
+    }
+}
